@@ -1,0 +1,13 @@
+.flex {
+  display: flex;
+  justify-content: center;
+  margin: 10px; }
+  .flex img {
+    height: 280px; }
+
+.card-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px ridge black;
+  padding: 5px; }
